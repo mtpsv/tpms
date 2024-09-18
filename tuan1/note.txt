@@ -1,24 +1,5 @@
-(sửa lại các tiêu đề cho phù hợp, bỏ các thẻ chưa cần thiết)
+
 Hiển thị trên link của Web lấy từ GLITCH, kiểm tra hiệu ứng của thẻ title.
-b. Sử dụng thẻ h1, trong thân của thẻ body, đặt tiêu đề chính của trang là "BÀI TẬP 1"
-c. Dòng lệnh tiếp theo, sử dụng thẻ thích hợp (thẻ p) trong thân của thẻ body để hiển thị đoạn text sau:
-Sử dụng Visual Studio Code (VSCode) và VSExtention hỗ trợ soạn thảo HTML5, thực hiện các nội dung sau:
-d. Dòng lệnh tiếp theo, sử dụng thẻ h2 trong thân của body để đặt hiển thị đoạn text sau:
-Câu a. Sử dụng VS Code và GLITCH:
-e. Dòng lệnh tiếp theo, sử dụng thẻ p để đặt nội dung text sau: Nội dung phần a
-g. Dòng lệnh tiếp theo, sử dụng thẻ h3 để đặt tiêu đề của 1 mục con của mục a, sau đó lại sử dụng thẻ p để đặt text của nội dung.
-h. Dòng lệnh tiếp theo, lặp lại d-e để đặt 1 mục con là Câu b,
-i. Đặt tooltip cho thẻ p của e, khi người dùng di chuột lên khối thì nó hiện text: "câu a".
-k. Sử dụng thẻ thích hợp (thẻ span với thuộc tính style="color: red;") để đặt mầu đỏ cho khối chữ "phần a" ở thẻ p trong câu e.
-l. Thêm lệnh hiển thị 1 ảnh 22IT3.jpg trong thân của thẻ body với thuộc tính độ rộng =300, độ cao =300 và alt là "22IT3".
-Thuộc tính "alt" trong thẻ <img> của HTML (Image Alt Text) là viết tắt của "alternative text" hoặc "alternate text". Nó được sử dụng để cung cấp một văn bản mô tả cho hình ảnh. Thuộc tính "alt" quan trọng cho nhiều mục đích, bao gồm:
-Nếu trình duyệt không thể tải hoặc hiển thị hình ảnh (ví dụ: nếu đường dẫn hình ảnh không hợp lệ hoặc hình ảnh bị lỗi), trình duyệt sẽ hiển thị văn bản trong thuộc tính "alt" thay vì ảnh.
-•	Mô tả ảnh trong thuộc tính "alt" giúp người dùng có khuyết tật thị giác hoặc sử dụng trình đọc màn hình hiểu nội dung của hình ảnh. Điều này giúp cải thiện khả năng truy cập cho tất cả người dùng.
-•	Mô tả hình ảnh trong thuộc tính "alt" có thể giúp tối ưu hóa công việc SEO (Search Engine Optimization), vì các công cụ tìm kiếm có thể hiểu nội dung hình ảnh thông qua nó.
-m. Đặt khối lệnh ở các câu từ b-k trong 1 thẻ div có thuộc tính như sau:
-                       style="float: left; width: 50%;"
-để phân trang thành 2 cột, phần text chiếm 50% trang khi hiển thị
-n. Đặt khối lệnh ở câu l trong thân của 1 thẻ div tương tự như trên.
-p. Sử dụng thẻ a thuộc tính thẻ href, tại thân của thẻ footer bổ sung 1 đường link tới trang web https://cmc-u.edu.vn/ khi người dùng nhấn vào khối chữ Liên hệ trường Đại học CMC.
-q. Sử dụng thẻ a thuộc tính thẻ href (với giá trị "https://cmc-u.edu.vn/&quot;) và thuộc tính target (với giá trị  "_blank"), tại thân của thẻ footer bổ sung 1 đường link tới trang web https://cmc-u.edu.vn/ khi người dùng nhấn vào khối chữ Liên hệ trường Đại học CMC thì trình duyệt mở tab hoặc window mới để hiển trị trang Web của CMC Uni.
-r. Đặt khối lệnh sau vào thân của thẻ body để hiển thị bảng dữ liệu:
+
+
+
